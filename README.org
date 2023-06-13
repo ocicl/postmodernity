@@ -1,0 +1,10 @@
+* postmodernity
+
+Utility library for the Common Lisp Postmodern library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/michaeljforster/postmodernity.git   |
+| commit  | 5ed0399  |
+| systems | postmodernity |
+|---------+-------------------------------------------|
+
